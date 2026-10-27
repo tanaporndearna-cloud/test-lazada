@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+*.xlsx
+!sample_data/*.xlsx
+.venv/
+venv/
